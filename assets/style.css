@@ -8,6 +8,9 @@ body {
     background-color: #d9dcd6;
 }
 
+
+/* Header section starts here */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -44,20 +47,28 @@ header nav ul li {
 a {
     color: #ffffff;
     text-decoration: none;
+    font-size: small;
 }
+
+
+/* header section end */
 
 p {
     font-size: 16px;
 }
 
-.hero {
-    /* height: 800px; */
+
+/* .hero { 
+     height: 800px; 
     width: auto;
     margin-bottom: 25px;
-    /* background-image: url("../images/digital-marketing-meeting.jpg"); */
+     background-image: url("../images/digital-marketing-meeting.jpg"); 
     background-size: cover;
     background-position: center;
-}
+ } */
+
+
+/* hero section */
 
 .meeting {
     height: 800px;
@@ -126,6 +137,9 @@ aside {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+
+/* footer section */
 
 footer {
     padding: 30px;
